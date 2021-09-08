@@ -41,3 +41,4 @@ The application should be compiled with \`next build\` first.
 See the section in Next docs about [deployment](https://nextjs.org/docs/deployment) for more
 information.
 # my-strapi-project-frontend
+# my-strapi-project-frontend
